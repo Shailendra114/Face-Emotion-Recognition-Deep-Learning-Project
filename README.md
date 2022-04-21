@@ -1,5 +1,6 @@
 # Face-Emotion-Recognition-Deep-Learning-Project
 I have done this project as a part of our curriculam in Almabetter.
+
 In this Project, I will:
 * Develop a facial expression recognition model.  
 * Build and train a convolutional neural network (CNN).  
