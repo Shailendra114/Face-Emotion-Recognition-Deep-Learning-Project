@@ -12,3 +12,5 @@ In this Project, I will:
 # Introduction:-
 Face emotion recognition is a very good technology that we can use in real time for many benefits such as--
 * We can use face emotion recognition to understand the expression of a customer after seeing any product or service.
+* With the help of this project, We can understand weither the customer liked our product in restaurent or office.
+* 
