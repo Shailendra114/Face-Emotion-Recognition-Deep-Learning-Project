@@ -14,3 +14,5 @@ Face emotion recognition is a very good technology that we can use in real time 
 * We can use face emotion recognition to understand the expression of a customer after seeing any product or service.
 * With the help of this project, We can understand weither the customer liked our product in restaurent or office.
 * We can use face emotion recognition technology in school, College or in University to understand the facial expression of the students to understand weither they are understanding the lessons or not.
+
+We can use it at so many other places as well.
