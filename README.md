@@ -17,4 +17,6 @@ Face emotion recognition is a very good technology that we can use in real time 
 
 We can use it at so many other places as well.
 # Dataset:-
+There are many datasets to work on the this project but we have chosen this one which can be downloaded from the link below through kaggle-
+
 
