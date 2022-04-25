@@ -16,8 +16,13 @@ Face emotion recognition is a very good technology that we can use in real time 
 * We can use face emotion recognition technology in school, College or in University to understand the facial expression of the students to understand weither they are understanding the lessons or not.
 
 We can use it at so many other places as well.
+
+# Problem Statement:-
+
 # Dataset:-
 There are many datasets to work on the this project but we have chosen this one which can be downloaded from the link below through kaggle-
 
 https://www.kaggle.com/datasets/msambare/fer2013
+
+
 
