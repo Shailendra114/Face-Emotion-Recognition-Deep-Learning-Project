@@ -38,6 +38,7 @@ https://www.kaggle.com/datasets/msambare/fer2013
 # Different Models Used:- 
 The different models that i have used are ae follows:-
 * Deepface
+* CNN (Convolutional neural network)
 * 
 
 
