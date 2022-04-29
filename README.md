@@ -40,7 +40,7 @@ The different models that i have used are ae follows:-
 * Deepface
 * CNN (Convolutional neural network)
 * Resnet
-* 
+# DeepFace:-
 
 
 
