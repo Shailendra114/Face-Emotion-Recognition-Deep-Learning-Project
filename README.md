@@ -1,4 +1,4 @@
-# Face-Emotion-Recognition-Deep-Learning-Project:-
+# Face-Emotion-Recognition-Deep-Learning-Project:
 I have done this project as a part of our curriculam in Almabetter.
 
 In this Project, I will:
