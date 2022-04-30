@@ -1,5 +1,5 @@
 # Face-Emotion-Recognition-Deep-Learning-Project
-I have done this project as a part of our curriculam in Almabetter.
+I have done this project as a part of our curriculam in Almabetter's data science course.
 
 In this Project, I will:
 * Develop a facial expression recognition model.  
