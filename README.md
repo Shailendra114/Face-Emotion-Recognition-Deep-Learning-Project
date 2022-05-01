@@ -1,5 +1,5 @@
 # Face-Emotion-Recognition-Deep-Learning-Project
-I have Completed this project as a part of our curriculam in Almabetter's Full Stack data science course.
+I have completed this project as a part of my in Almabetter's Full Stack data science course.
 
 In this Project, I will:
 * Develop a facial expression recognition model.  
