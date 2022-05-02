@@ -53,3 +53,4 @@ We designed the CNN through which we passed our features to train the model and 
 * One drawback of the system is the some Disgust faces are showing Neutral .Because less no. of disgust faces are given to train .This may be the reason.
 * I thought it was a good score should improve the score.
 * Thus I decided that I will deploy the model.
+# Using Transfer Learning Resnet50:-
