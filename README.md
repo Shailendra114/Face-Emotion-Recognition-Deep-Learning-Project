@@ -48,3 +48,8 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 
 We designed the CNN through which we passed our features to train the model and eventually test it using the test features. To construct CNN we have used a combination of several different functions such as sequential, Conv (2D), Batch Normalization, Maxpooling2D, Relu activation function, Dropout, Dense and finally softmax function.
 
+
+* We used Adam as our optimizer after training for 70 epochs using Adam with minimum learning rate 0.00001 and a batch size of 785, we achieved 69 % accuracy on the test set and 74% as train accuracy.
+* One drawback of the system is the some Disgust faces are showing Neutral .Because less no. of disgust faces are given to train .This may be the reason.
+* I thought it was a good score should improve the score.
+* Thus I decided that I will deploy the model.
