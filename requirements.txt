@@ -1,0 +1,8 @@
+numpy~=1.22.3
+streamlit~=1.9.0
+streamlit_webrtc
+keras~=2.8.0
+opencv-contrib-python-headless
+tensorflow~=2.8.0
+tensorflow-gpu~=2.8.0
+tensorflow-estimatior=2.8.0
